@@ -1,3 +1,3 @@
 # Tugas class and object
-## Nama: Rizqy Farhan T
-## NPM: 0620101078
+### Nama: Rizqy Farhan T
+### NPM: 0620101078
